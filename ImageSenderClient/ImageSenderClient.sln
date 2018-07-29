@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ImageSenderClient", "ImageSenderClient\ImageSenderClient.vbproj", "{7E55150E-DEF0-42DD-A56F-B881F0D0DF40}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ImageSender Client", "ImageSender Client\ImageSender Client.vdproj", "{E07A61CC-6E4B-4500-803E-4895A391878C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E55150E-DEF0-42DD-A56F-B881F0D0DF40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E55150E-DEF0-42DD-A56F-B881F0D0DF40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E55150E-DEF0-42DD-A56F-B881F0D0DF40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E55150E-DEF0-42DD-A56F-B881F0D0DF40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E07A61CC-6E4B-4500-803E-4895A391878C}.Debug|Any CPU.ActiveCfg = Debug
+		{E07A61CC-6E4B-4500-803E-4895A391878C}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

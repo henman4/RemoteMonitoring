@@ -1,0 +1,13 @@
+E:\Project\CustomTabControl\CustomTabControl\bin\Debug\RemoteMonitoringServer.exe
+E:\Project\CustomTabControl\CustomTabControl\bin\Debug\RemoteMonitoringServer.pdb
+E:\Project\CustomTabControl\CustomTabControl\bin\Debug\RemoteMonitoringServer.xml
+E:\Project\CustomTabControl\CustomTabControl\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\CustomTabControl\CustomTabControl\obj\Debug\RemoteMonitoringServer.Form1.resources
+E:\Project\CustomTabControl\CustomTabControl\obj\Debug\RemoteMonitoringServer.Form2.resources
+E:\Project\CustomTabControl\CustomTabControl\obj\Debug\RemoteMonitoringServer.Form3.resources
+E:\Project\CustomTabControl\CustomTabControl\obj\Debug\RemoteMonitoringServer.Resources.resources
+E:\Project\CustomTabControl\CustomTabControl\obj\Debug\RemoteMonitoringServer.Run.resources
+E:\Project\CustomTabControl\CustomTabControl\obj\Debug\RemoteMonitoringServer.vbproj.GenerateResource.Cache
+E:\Project\CustomTabControl\CustomTabControl\obj\Debug\RemoteMonitoringServer.exe
+E:\Project\CustomTabControl\CustomTabControl\obj\Debug\RemoteMonitoringServer.xml
+E:\Project\CustomTabControl\CustomTabControl\obj\Debug\RemoteMonitoringServer.pdb
